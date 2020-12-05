@@ -1,5 +1,5 @@
 def find_even_values(num)
-  row_index = 0
+  column_index = 0
   while column_index < num.count do
     column_index = 0
     while column_index < num[column_index].count do
